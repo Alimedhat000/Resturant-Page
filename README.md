@@ -23,7 +23,7 @@ This is a dynamic single-page restaurant website created using JavaScript and We
 
 1. Clone the repository
    ```bash
-   git clone <your-repository-url>
+   git clone <the-repository-url>
    ```
 
 2. Install dependencies
